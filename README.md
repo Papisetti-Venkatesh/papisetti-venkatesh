@@ -6,12 +6,12 @@ Platform & DevOps Engineer with 5+ years of experience building and supporting c
 
 ### 🛠️ Technology Stack
 
-**Cloud:** Azure, AWS.
+***Cloud:*** Azure, AWS.
 ***Containers:*** Docker, Kubernetes.
-**Infrastructure as Code:** Terraform.
-**CI/CD:** Azure DevOps, Jenkins, GitHub Actions.
-**Monitoring:** Prometheus, Grafana.
-**Operating Systems:** Linux.
+***Infrastructure as Code:*** Terraform.
+***CI/CD:*** Azure DevOps, Jenkins, GitHub Actions.
+***Monitoring:*** Prometheus, Grafana.
+***Operating Systems:*** Linux.
 
 ---
 
