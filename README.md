@@ -42,7 +42,7 @@ https://github.com/pvenki8890/DevOps-Projects-Portfolio
 ## 📫 Connect With Me
 
 **LinkedIn:**
-https://www.linkedin.com/in/v-0b3699225/
+www.linkedin.com/in/papissetti-venkatesh
 
 **Email:** pvenki8890@gmail.com
 
