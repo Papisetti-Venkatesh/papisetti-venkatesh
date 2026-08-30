@@ -11,7 +11,7 @@ Platform & DevOps Engineer with 6+ years of experience building and supporting c
 ***Infrastructure as Code:*** Terraform.
 ***CI/CD:*** Azure DevOps, Jenkins, GitHub Actions.
 ***Monitoring:*** Prometheus, Grafana.
-***Operating Systems:*** Linux.
+***Operating Systems:*** Linux, Windows.
 
 ---
 
