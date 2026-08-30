@@ -2,7 +2,7 @@
 
 ## Platform Engineer | DevOps Engineer | Azure | AWS | Kubernetes | Terraform
 
-Platform & DevOps Engineer with 5+ years of experience building and supporting cloud infrastructure, Kubernetes platforms, CI/CD pipelines, and Infrastructure as Code solutions across Azure & AWS.
+Platform & DevOps Engineer with 6+ years of experience building and supporting cloud infrastructure, Kubernetes platforms, CI/CD pipelines, and Infrastructure as Code solutions across Azure & AWS.
 
 ### 🛠️ Technology Stack
 
