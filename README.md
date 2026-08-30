@@ -30,6 +30,12 @@ GitOps-based deployment of a containerized Go application to **Azure AKS** using
 
 🔗 **GitHub:** https://github.com/pvenki8890/Azure-AKS-GitOps-Deployment-Pipeline-with-Argo-CD
 
+### Enterprise GitHub Actions DevSecOps Platform
+
+Enterprise-style DevSecOps pipeline for a containerized Python Flask application using **GitHub Actions, Docker, Trivy, Azure Container Registry, OIDC, Managed Identity, and Azure Container Apps**.
+
+🔗 **GitHub:** https://github.com/pvenki8890/Enterprise-GitHub-Actions-DevSecOps-on-Azure
+
 ### DevOps Projects Portfolio
 
 Collection of hands-on DevOps, Docker, Kubernetes, Terraform, CI/CD, and Cloud projects demonstrating real-world implementation and automation practices.
