@@ -22,26 +22,26 @@ Platform & DevOps Engineer with 6+ years of experience building and supporting c
 Production-style CI/CD pipeline built using AWS, Jenkins, Docker, SonarQube, Maven, GitHub, and Jenkins Shared Libraries.
 
 🔗 Repository:
-https://github.com/pvenki8890/AWS-Jenkins-DevSecOps-Pipeline
+https://github.com/Papisetti-Venkatesh/AWS-Jenkins-DevSecOps-Pipeline
 
 ### Azure AKS GitOps Deployment Pipeline with Argo CD
 
 GitOps-based deployment of a containerized Go application to **Azure AKS** using Docker, ACR, Kubernetes, and Argo CD, with automated synchronization and self-healing.
 
-🔗 **GitHub:** https://github.com/pvenki8890/Azure-AKS-GitOps-Deployment-Pipeline-with-Argo-CD
+🔗 **GitHub:** https://github.com/Papisetti-Venkatesh/Azure-AKS-GitOps-Deployment-Pipeline-with-Argo-CD
 
 ### Enterprise GitHub Actions DevSecOps Platform
 
 Enterprise-style DevSecOps pipeline for a containerized Python Flask application using **GitHub Actions, Docker, Trivy, Azure Container Registry, OIDC, Managed Identity, and Azure Container Apps**.
 
-🔗 **GitHub:** https://github.com/pvenki8890/Enterprise-GitHub-Actions-DevSecOps-on-Azure
+🔗 **GitHub:** https://github.com/Papisetti-Venkatesh/Enterprise-GitHub-Actions-DevSecOps-on-Azure
 
 ### DevOps Projects Portfolio
 
 Collection of hands-on DevOps, Docker, Kubernetes, Terraform, CI/CD, and Cloud projects demonstrating real-world implementation and automation practices.
 
 🔗 Repository:
-https://github.com/pvenki8890/DevOps-Projects-Portfolio
+https://github.com/Papisetti-Venkatesh/DevOps-Projects-Portfolio
 
 ---
 
