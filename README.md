@@ -24,11 +24,11 @@ Production-style CI/CD pipeline built using AWS, Jenkins, Docker, SonarQube, Mav
 🔗 Repository:
 https://github.com/Papisetti-Venkatesh/AWS-Jenkins-DevSecOps-Pipeline
 
-### Azure AKS GitOps Deployment Pipeline with Argo CD
+### Azure AKS GitOps Deployment with Argo CD
 
 GitOps-based deployment of a containerized Go application to **Azure AKS** using Docker, ACR, Kubernetes, and Argo CD, with automated synchronization and self-healing.
 
-🔗 **GitHub:** https://github.com/Papisetti-Venkatesh/Azure-AKS-GitOps-Deployment-Pipeline-with-Argo-CD
+🔗 **GitHub:** https://github.com/Papisetti-Venkatesh/Azure-AKS-GitOps-Deployment-with-Argo-CD
 
 ### Enterprise GitHub Actions DevSecOps Platform
 
